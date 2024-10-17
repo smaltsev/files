@@ -1,0 +1,149 @@
+
+
+Abstract
+
+
+ Background/Objectives
+Atopic dermatitis (AD) is a common chronic skin disease in the pediatric population; however, rates of admissions for flares in patients established with dermatology compared to those that are not established have not been fully assessed in prior studies.
+
+
+ Methods
+We reviewed electronic medical records of patients hospitalized (billing codes 99221–99223, 99217\) with diagnoses encompassing AD, eczema, and dermatitis (ICD\-10 codes L20\.8\-L20\.9, L30\.8\-L30\.9\) between January 1, 2011, and December 31, 2021, at University Hospitals (UH) in Cleveland, Ohio. Patients were considered established with dermatology if they had been seen by a dermatology provider within 6 months prior to admission. Statistical analysis was performed using chi\-square goodness of fit.
+
+
+ Results
+A total of 95 patient encounters met criteria for inclusion. Fifteen (15\.8%) patients were established with dermatology at the time of admission and 80 (84\.2%) were not. The chi\-square value (x2 \= 44\.74\) was greater than the critical value of 10\.828 at one degree of freedom (p \< .001\). There were 8 patients who had more than one admission for atopic dermatitis flares; 2 of these patients were established with dermatology prior to their first admission, and 4 were established at the time of the second admission.
+
+
+ Conclusion
+The majority of patients admitted with AD flare were not established with dermatology. Many of these patients lived in a low socioeconomic area and missed follow\-up appointments. Increasing access to dermatologic care for patients with atopic dermatitis, especially in lower\-income areas, could aid in decreasing atopic dermatitis\-related hospitalizations.
+
+
+
+
+
+1 INTRODUCTION
+Atopic dermatitis (AD) is a common chronic skin disease with a lifetime prevalence of up to 20%1 and is associated with significant disease burden.2 Factors such as pruritus, sleep disturbance, and the visibility of the condition can negatively affect quality\-of\-life measures for affected individuals.3, 4 Current clinical guidelines are aimed at preventing flares and achieving long\-term disease control. Although most cases of AD are managed in an outpatient setting, patients with acute flares of disease or persistent disease refractory to outpatient management may be admitted for inpatient treatment. Management of AD in the inpatient setting is associated with significant financial burden to the United States healthcare system, with higher prevalence and total costs compared to other inflammatory skin conditions.5 The goal of this study was to determine the relationship between hospitalizations in patients who are established with dermatology at the time of admission versus those that were not.
+
+
+2 METHODS
+This retrospective analysis reviewed electronic medical records from a single hospital system (University Hospitals, Cleveland, Ohio) with use of TriNetX, a web\-based data query tool. Institutional Review Board approval was obtained. Inclusion criteria were patients admitted for inpatient treatment (billing codes 99221–99223, 99217\) with diagnoses encompassing the terms AD, eczema, and dermatitis (ICD\-10 codes L20\.8\-L20\.9, L30\.8\-L30\.9\) between January 1, 2011, through December 31, 2021, with patient ages 0–17\. Exclusion criteria were age ≥18 and admissions that were unrelated to the underlying atopic dermatitis, and no active management of atopic dermatitis occurred. Data collected included demographics (patient age, gender, race, address/zip code), health insurance type, dermatology clinic visits and hospital admissions, and past medical history. A maximum cohort of 842 patients was identified, and of these 95 unique admissions met both inclusion and exclusion criteria. Patients were considered established within dermatology if they had seen a dermatology provider within 6 months of admission. Scheduling notes were reviewed to assess for missed clinic visits with a dermatology provider. Statistical analysis was performed with chi\-square goodness of fit. All analyses were performed using R Statistical Software (v4\.1\.2; R Core Team 2021\). The determination of low socioeconomic status (SES) was defined with the Neighborhood Atlas' Area Deprivation Index (ADI) with state deciles ≥8 (range 1–10\) or national percentiles \>70 (range 1–100\), with higher numbers representing the most disadvantaged groups.6 For two patients with only zip code available, the median ADI within the zip code was used to classify SES.
+
+
+3 RESULTS
+
+3\.1 Demographics
+Of the 95 admissions available to review, eight patients had more than one admission for AD flares, resulting in 87 unique patients. Patient demographics are summarized in Table 1. Patient age at admission ranged from 2 months to 13 years (mean 2\.69 years ±3\.29\). 55/87 (63%) of patients were male and 32/87 (37%) were female. The self\-reported race and ethnicities of patients were predominantly skin of color (78\.3%; 65/83\), which was defined as Black, Hispanic, Multiracial, or Pacific Islander. Patient insurance coverage was largely Medicare or Medicaid (78/87; 89\.7%). The majority of patients (65\.5%; 57/87\) had at least one additional manifestation of atopy (comorbid atopic conditions and cases with comorbid conditions contributing to admission are outlined in Table 2). A total of 69/87 (79\.3%) patients lived at an address classified as a low socioeconomic area based on state deciles; an additional seven patients (8%) did not meet criteria based on state deciles but were classified as low SES based on national percentiles. In total 76 (87\.4%) patients could be classified as low SES based on national ADI alone.
+
+TABLE 1\.
+ Patient demographics (N \= 87\).
+
+DemographicsSexMale55Female32RaceaBlack59White18Multiracial2Pacific Islander1Other3Unknown4EthnicityaNon\-Hispanic75Hispanic6Puerto\-Rican1Unknown5Insurance typeMedicare/Medicaid78Private7Self\-pay2
+
+
+a 
+ 
+ Race and ethnicity were self\-reported.
+
+
+
+
+TABLE 2\.
+ Patient comorbid atopic conditions and comorbid conditions contributing to admission (N \= 87\).
+
+Comorbid atopic conditionsAllergic rhinitis32 (36\.8%)Asthma36 (41\.4%)Food allergy30 (34\.5%)Eosinophilic esophagitis6 (6\.9%)Allergic conjunctivitis2 (2\.3%)Allergic contact dermatitis1 (1\.1%)Family history of AD, asthma, allergic rhinitis59 (67\.8%)
+
+
+Comorbid conditions contributing to admission in addition to flaring atopic dermatitisAsthma6 (6\.9%)Fever1 (1\.1%)Prematurity3 (3\.4%)Glycosylation disorder1 (1\.1%)Acute lymphoblastic leukemia1 (1\.1%)Failure to thrive5 (5\.7%)Depression1 (1\.1%)Epilepsy1 (1\.1%)Osteosarcoma1 (1\.1%)
+
+
+
+
+
+3\.2 Analysis
+Of the 95 hospitalizations meeting criteria for inclusion, 15 (15\.8%) patients were established with dermatology at the time of admission; of these, 2 (2\.1%; 2/95\) were seen by a pediatric dermatologist \[x2 (1, N \= 95\) \= 44\.74, p \< .001]. Of the 8 patients that had more than one admission for atopic dermatitis flares, 2 were established with dermatology prior to their first admission, and 4 were established at the time of the second admission. The time from dermatology visit to admission ranged from 23 days to 6 months, with an average of 2\.5 months. 20/95 (21\.1%) admissions were related to comorbid conditions in addition to flaring atopic dermatitis (Table 2). In most hospitalizations, at least one potential AD trigger or exacerbating factor was identified. The most common reported triggers were secondary infections or lack of prescription use (Table 3).
+
+TABLE 3\.
+ Reasons for atopic dermatitis flare and lack of prescription use.
+
+Suspected atopic dermatitis flare triggers (N \= 95\)Secondary bacterial impetiginization46 (48\.4%)Eczema herpeticum or coxsackium23 (24\.2%)Suspected exposure to known exacerbating factor/allergen3 (3\.2%)Suspected neglect3 (3\.2%)Lack of prescription use19 (20%)
+
+
+Reasons reported for lack of prescription use, when available (N \= 19\)Ran out of medication7 (36\.8%)Not able to attend follow\-up for refills2 (10\.5%)Transportation issues2 (10\.5%)Insurance issues/cost2 (10\.5%)Burning on application1 (5\.3%)Steroid aversion1 (5\.3%)
+
+
+
+
+
+3\.3 Inpatient consultation
+Dermatology was consulted in 66/95 (69\.5%) admissions. The dermatologic diagnosis (AD) provided by the consultation team differed from the primary pediatric medicine service's leading diagnoses in 13/66 (19\.7%) cases; these initial diagnoses prior to dermatology involvement are provided in Table 4.
+
+TABLE 4\.
+ The primary inpatient pediatric medicine teams' initial differential diagnoses in cases where the leading diagnosis was not atopic dermatitisa.
+
+Primary team differential diagnoses at the time of consultation (N \= 13\)Rash, unknown10Cellulitis3Scabies2Staphylococcal scalded skin syndrome1Drug eruption1Anaphylaxis1Psoriasis1Viral exanthem1Graft\-versus\-host disease1
+
+
+a 
+ 
+ In some cases, multiple diagnoses were considered for a single patient.
+
+
+
+
+
+3\.4 Treatments
+Gentle skin care including soap\-free and fragrance\-free cleansers, moisturizers/ointments, and sensitive skin bathing methods were uniformly recommended by dermatology prior to, during, and after admission. Treatments recommended by outpatient dermatology providers, inpatient dermatology consult team, and inpatient primary medicine team are outlined in Table 5.
+
+TABLE 5\.
+ Treatments recommended by dermatology and inpatient medicine are summarized (N \= 95\).
+
+TreatmentsOutpatient dermatology—started prior to admissionOutpatient dermatology—started after admissionInpatient dermatology—started during admissionInpatient medicine team—started during admissionLow\-potency TCS7184526Mid\-potency TCS10163119High\-potency TCS41430Crisaborole or tacrolimus ointment6861Topical antibacterial371520Topical antifungal1566Topical anti\-viral0001Systemic antibiotic231658Systemic antifungal0001Systemic anti\-viral011625Systemic steroid0112Oral antihistamine471043Dilute bleach/vinegar baths56171Wet wraps01110Phototherapya0100Dupilumaba1400
+
+
+
+ Abbreviation: TCS, topical corticosteroids.a 
+ 
+ Phototherapy and biologic medications are unable to be started in the inpatient setting in the hospital system in which these patients were treated.
+
+
+
+Primary teams frequently covered for suspected secondary viral infections such as herpes simplex virus with acyclovir and valacyclovir and for suspected bacterial impetiginization with various oral and/or topical antibiotics. The most commonly used antibiotic agents were mupirocin 2% ointment and systemic clindamycin. Treatments for secondary infection (viral and/or bacterial) were initiated in most (74/95; 77\.9%) admissions.
+
+
+3\.5 Follow\-up
+A total of three (3/15; 20%) patients who were previously established with dermatology missed follow\-up appointments prior to admission. After admission, follow\-up with dermatology was recommended in 71/95 (74\.7%) cases, of which 36/71 (50\.7%) followed up after admission, while the remainder did not return as advised. Of patients that missed follow\-up after admission, six (6/35; 17\.1%) were established with dermatology. Upon review of scheduling service notes, 21/71 (29\.6%) of patients had confirmed missed follow\-up appointments after admission; 2 of these patients were noted to be undergoing custody changes around the time of hospitalization. Other reported reasons for missed hospital follow\-up appointments with dermatology included transportation difficulties, single parent, and did not return call for scheduling.
+
+
+
+4 DISCUSSION
+This study evaluated the relationship between patients with AD who were either established or not established with dermatology at the time of hospital admission; in the majority of these admissions, patients were not established with dermatology. Our findings suggest that disparities in access to care may be potential underlying risk factors for admission.
+The patient cohort was disproportionately composed of patients from a lower\-income area and male patients of color. Higher prevalence and persistence of AD in urban areas has previously been reported, with rates being highest in Black children. Patients of color may experience a disproportionate burden of AD relating to various socioeconomic disparities.7 Patients in urban areas with persistent AD were also more likely to have associated comorbidities such as asthma and report lower quality\-of\-life.8 Prior studies have found that children from low SES areas have increased risk of hospitalization for skin disease, as well as decreased access to dermatolgists.9, 10 Furthermore, previous studies have noted that racial and ethnic minorities are more likely to be hospitalized for eczema herpeticum compared to non\-minority patients11; a large proportion (46/95; 48\.4%) of our cohort were noted to have bacterial or viral impetiginization.
+We found that pediatric patients admitted for the treatment of AD were less likely to be established with dermatology. Lack of atopic dermatitis management specifically by a dermatologist has been associated with poorer disease control; Black and Hispanic patients have in addition been found to be less likely to see providers, as well as to have more severe and persistent AD.9 Dermatologic access challenges may be exacerbated by workforce shortages. An overall shortage of board\-certified dermatologists in the United States workforce has been recognized.12 However, access to pediatric dermatologists is especially limited, with 95\.6% of all counties in the US (as of 2020\) reporting no board\-certified pediatric dermatologist despite having densities of pediatric generalists around the national average.13 In this study, only two of the patients were seen by a pediatric dermatologist prior to admission. Additionally, a geographic maldistribution of pediatric dermatologists has been noted, with a lower percentage residing in states with higher rates of people in poverty, and zero practicing in rural counties.14 Overall, we feel that our study supports an increased need for dermatologic access for pediatric patients, particularly those that live in lower SES areas.
+Nearly half of our patients did not follow up as advised, and lack of access, including prescription access, may have played a role in several of these admissions. Lack of transportation is a known barrier to medical care for pediatric patients with atopic dermatitis,15 and was reported by some of our families as a reason for their inability to keep their follow\-up appointments. Increased social support including transportation and prescription assistance may be of additional benefit to improve access to dermatologic care as well as reduce hospitalization risk for pediatric patients with AD.
+This study is not without limitations. This is a single\-center study in an urban location, which may not be generalizable to more rural locations. Patients with AD admitted with the ICD\-10 code for “rash and other nonspecific skin eruption” may be missed in this analysis, although the yield of searching with this code was determined to be low as such cases were more likely to not have a definitive diagnosis. For the cases in which dermatology was not consulted, we are assuming that the diagnosis of atopic dermatitis was correct. For the two patients in which zip code alone was used to classify SES, we note that median family income in each zip code may vary. At the time that the data was pulled for this study, biologic medications for the treatment of atopic dermatitis other than dupilumab were not widely available outside of a clinical trial. We also note that this study did not analyze cases in which patients were seen in the emergency department by dermatology and admission was not pursued due to this consultation.
+
+
+5 CONCLUSION
+In this population of patients hospitalized for AD flares, a higher proportion were not established with dermatology prior to admission. Nearly half of patients missed follow\-up appointments. Patients admitted for AD flares were more likely to live in lower SES areas and were more likely to be Black and/or Hispanic males. Increasing access to dermatologic care for patients with AD, especially in lower SES areas, may help decrease atopic dermatitis\-related hospitalizations. Further studies are required to further assess and reduce barriers to care.
+
+
+ AUTHOR CONTRIBUTIONS
+Dr. Shah formulated the research question and design of the study and helped draft and revise the manuscript. Dr. Wieser acquired the data and drafted the manuscript. Mr. Larson analyzed and interpreted the data and helped draft/revise the manuscript language pertaining to data reporting. All authors have provided their consent for the exclusive publication of this manuscript. Institutional IRB approval was obtained for this project.
+
+
+ CONFLICT OF INTEREST STATEMENT
+Dr. Shah receives royalties from UpToDate. Dr. Wieser previously served as a sub\-investigator in clinical trials involving the use of dupilumab (Sanofi\-Regeneron) and abrocitinib (Pfizer). Mr. Larson has no conflicts of interest.
+
+
+
+Open Research
+
+
+
+DATA AVAILABILITY STATEMENT
+The data that support the findings of this study are available on request from the corresponding author. The data are not publicly available due to privacy or ethical restrictions.
+
+
+
+

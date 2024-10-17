@@ -1,0 +1,69 @@
+Cord Blood Levels Of IL-31 And CCL17 And Cutaneous
+Markers May Predict Atopic Dermatitis Risk In Infants:
+JAMA
+Written By : Medha Baranwal | Medically Reviewed By : Dr. Kamal Kant Kohli
+Published On 18 Sept 2024 6:45 PM | Updated On 19 Sept 2024 10:27 AM
+Italy: A recent observational study published in JAMA Dermatology has shed light
+on the potential for cord blood serum levels of specific cytokines to predict the
+development of atopic dermatitis (AD) in infants.
+Researchers investigated the correlation between serum levels of interleukin-31
+(IL-31) and CCL17, as well as cutaneous markers and the subsequent emergence
+of AD. The study suggests that measuring these cytokines at birth could provide
+valuable insights into identifying newborns at higher risk for developing this
+common skin condition.
+"In this observational study, transepidermal water loss (TEWL) measurements at
+the anterior cubital fossa were conducted before the onset of clinical signs of AD
+and showed a correlation with the development of the condition," the researchers
+wrote.
+Atopic dermatitis, a chronic inflammatory skin disorder, affects a significant
+number of infants and is characterized by symptoms such as itchy, inflamed skin.
+Identifying early biomarkers for AD could enable earlier interventions and
+potentially reduce the severity of the condition. Currently, there is no dependable
+method to identify which newborns are at higher risk of developing atopic
+dermatitis. Considering this, Angelo Massimiliano D’Erme, Unit of Dermatology,
+Hospital of Livorno, Livorno, Italy, and colleagues aimed to assess the potential of
+serological biomarkers—including CCL17 (thymus- and activation-regulated
+chemokine), CCL18, CCL22, CCL27, IL-31, and thymus stromal lymphopoietin
+—alongside transepidermal water loss (TEWL) and hydration rate, to predict AD
+development in infants.
+For this purpose, the researchers conducted an observational prospective study
+involving 40 consecutive full-term newborns from a single university hospital in
+Pisa, Italy. They assessed the cutaneous markers of these infants at 1, 6, and 12
+months of age while analyzing biomarkers from a 10-mL sample of cord blood
+taken at birth. Data collection was carried out from March to December 2018, with
+analysis occurring between January and April 2019.
+The study aimed to evaluate the levels of serological biomarkers to TEWL and
+hydration rate and to determine their association with the development of atopic
+dermatitis during the first year of life.
+The study led to the following findings:
+• All 40 included infants (68% males) completed the study. At six months,
+16 infants presented symptoms and signs of AD (AD group) and 24 did not
+(non-AD group).
+• Infants with AD signs had statistically significant anterior cubital fossa
+TEWL values at 1, 6, and 12 months of age compared to those without AD
+signs.
+• No statistically significant correlations were observed between the TEWL
+measured at the anterior part of the knee and the hydration rate at the anterior
+cubital fossa in the first month in the two groups.
+• Regarding blood biomarkers, newborns who later developed atopic
+dermatitis (AD) had significantly higher levels of CCL17/thymus- and
+activation-regulated chemokine (median, 716 pg/mL) and IL-31 (median, 212
+pg/mL) at birth compared to those who did not develop AD (median, 419
+pg/mL for CCL17 and 97 pg/mL for IL-31).
+• There were no statistically significant differences in the serum levels of
+thymus stromal lymphopoietin (median, 105 pg/mL versus 88 pg/mL),
+CCL18 (median, 1236 pg/mL versus 1255 pg/mL), CCL22 (median, 1032
+pg/mL versus 1096 pg/mL), and CCL27 (median, 172 pg/mL vs 120 pg/mL)
+between the two groups.
+In the observational study, TEWL measurements at the anterior cubital fossa were
+found to precede and correlate with the clinical signs of atopic dermatitis, offering
+physicians an objective method to assess the risk in newborns and develop
+additional preventive strategies.
+"The analysis of cytokines revealed that measuring CCL17/TARC and IL-31
+levels in cord blood could provide valuable insights into identifying newborns at
+higher risk for AD. These innovative findings are anticipated to enhance the
+stratification in future intervention studies," the researchers concluded.
+Reference:
+D’Erme AM, Fidanzi C, Bevilacqua M, et al. Cord Blood Serum Levels of IL-31
+and CCL17, Cutaneous Markers, and Development of Atopic Dermatitis. JAMA
+Dermatol. Published online September 11, 2024.

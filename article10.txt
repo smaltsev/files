@@ -1,0 +1,329 @@
+Introduction
+Atopic dermatitis is a challenging, chronic, relapsing
+inflammatory skin condition that is often accompanied by
+additional atopic symptoms such as food allergies, allergic
+rhinitis and asthma.1,2 Atopic dermatitis is assumed to include
+hereditary as well as environmental factors that precipitate
+the development and progression of this disease, however
+the exact aetiology of the disorder is still unclear. Among
+the immunologic factors contributing to the multifactorial
+aetiology of atopic dermatitis are alterations related to
+membrane malfunction, cellular-mediated immune responses
+and type 1 IgE malfunction.3,4
+Investigations have demonstrated that skin barrier breakdown
+and immunological imbalance lead to the development
+of atopic dermatitis.5 It is primarily a T cell-driven illness
+since it has elevated levels of cytokines like interleukins
+and chemokine ligand 18 (CCL18). In addition, there is
+stimulation of cytokine pathways like Th22, Th17/IL-23 and
+Th1. DNA methylation is another potential factor that causes
+atopic dermatitis- [Figure 1].
+Epidermal abnormalities in individuals with atopic
+dermatitis were linked to altered gene transcript levels
+according to an epigenome-wide association analysis in adult
+atopic dermatitis patients.6 Significant variations in DNA
+methylation were also found at a total of 19 CpG sites. By
+demethylating the promoters of the IL-13 and IL-4 genes,
+GATA3 transcription factor activation in Th2 cells causes the
+production of IL-4, IL-5 and IL-13 [Figure 2].7
+One of the distinctive features of this phenomenon is the
+propensity for CD4 cells to develop into cells belonging
+to the Th2 line. In peripheral blood and tissues, cytokines
+induce IgE antibodies and eosinophils.8 This inflammation
+damages the epidermal barrier.
+Mechanism of Action
+The JAK-STAT pathway leading to downstream activation
+triggers the production of several cytokines. Interleukin [IL]-
+13, IL-4, IL-31 and IL-5 are examples of proinflammatory
+cytokines that work via this signal transduction channel
+which serves as a connector between the nucleus and the cell
+membrane. Mammals have four Janus kinases (JAK1, JAK2,
+JAK3 and tyrosine kinase 2) and seven STATs (STAT1,
+STAT2, STAT3, STAT4, STAT5a, STAT5b and STAT6)
+[Figure 3]. When ligands attach to cellular receptors leading
+to JAK-STAT activation, it stimulates genetic transcription in
+the nucleus. As a result, Janus kinase suppression may reduce
+pro-inflammatory cytokine signalling. In atopic dermatitis
+mouse model studies, Janus kinase inhibitors demonstrated
+an improvement in skin barrier functioning and a decrease in
+inflammatory IL levels [Table 1].9,10
+Topical JAK Inhibitors
+Tofacitinib
+Tofacitinib (TOFA), a JAK1 and JAK3 inhibitor implicated
+in the Th1 and Th2 signalling pathways, was the first Janus
+kinase inhibitor to go through substantial human research. A
+4-week, phase 2a, double-blind, randomised study involving
+69 adults aged 18–60 years found that 2% tofacitinib applied
+twice daily significantly improved symptoms, leading to a
+decrease in Eczema area and severity index (EASI) scores
+of 81.7% as opposed to 29.9% with placebo.11 Nevertheless,
+as opposed to 9% of control group patients, 17% of the
+tofacitinib group suffered treatment-emergent side effects,
+notably nasopharyngitis and upper respiratory tract infections.
+Another study involving six patients with atopic dermatitis
+who were resistant to standard therapy found that Scoring
+Atopic Dermatitis (SCORAD) decreased by 24.3% over 21
+weeks (p < 0.05). No notable side effects were reported.12
+Ruxolitinib
+Experiments involving transgenic IL-33 mouse models
+demonstrated the ability of ruxolitinib cream (p < 0.01) in
+decreasing both thymic stromal lymphopoietin (TSLP) and
+fluorescein isothiocyanate (FITC)-induced ear swelling (34%
+and 39%, respectively), abnormal grooming behaviours due
+to the inflammation and ear punch weight. Further research
+revealed that it was due to the inhibition of IL-33 and Th-2
+proteins. It was coupled with substantial inhibition of the
+production of interferon signalling pathway mediators, such
+as IFITM3 (interferon-induced transmembrane protein 3). On
+histological investigation of tissue samples, ruxolitinib cream
+significantly reduced the number of mast cells in contrast to
+vehicle (placebo) cream, providing clear evidence for the
+drug’s potent anti-inflammatory action.13
+There have been numerous studies to establish the role of
+ruxolitinib in treating atopic dermatitis. Under the registration
+number NCT03011892,14 a phase 2 clinical research study
+enrolling 307 adult atopic dermatitis patients was carried
+out. An Investigator’s Global Assessment (IGA) score of 2
+or 3 (mild or moderate) and 3–20% affected body surface
+area were some of the inclusion parameters. Subjects were
+randomly assigned to receive RUX (ruxolitinib) cream,
+active control or vehicle control for 8 weeks. During the
+second week, more people using 1.5% RUX twice daily
+than those using 0.1% triamcinolone cream had reached
+Clinically relevant improvement (CRI) and by the fourth 
+week, near-maximal improvement had been seen. Within 36
+hours of starting therapy, over 42.5% of those in the 1.5%
+RUX group had a minimal clinically significant difference
+(MCID) in pruritus (vehicle, 13.6%; P < 0.01). Patients
+receiving 1.5% RUX cream BID demonstrated an increase in
+Skindex-16 overall scores of 63.5% and 73.2%, respectively,
+from baseline at weeks 2 and 8.
+Kim et al.,15 in phase II research, administered ruxolitinib
+cream to 252 patients for 4 weeks at four different dosages
+(0.15% daily, 0.5% daily, 1.5% daily, or 1.5% twice daily), as
+opposed to triamcinolone 0.1% cream and placebo. All RUX
+regimens significantly alleviated the distressing symptoms by
+week 4 with the 1.5% BID group demonstrating the biggest
+improvement in EASI (71.6% vs. 15.5%; p < 0.0001).
+The investigation offered strong proof of ruxolitinib’s
+effectiveness with no significant side effects associated with
+on-site treatment.
+The topical ruxolitinib evaluation in atopic dermatitis
+studies involved 631 and 618 patients respectively who were
+randomly assigned to either apply 0.75% RUX cream, 1.5%
+RUX cream or vehicle cream on the affected areas twice daily
+continuously for 8 weeks. The primary endpoint of this study
+was an improvement in the IGA scores. The results obtained
+thus were highly favourable for ruxolitinib.
+In these two phase III atopic dermatitis trials, the average
+serum concentrations of RUX were minimal and did not
+change any clinically important haematological parameters.
+On applying the RUX cream topically, it was reported
+that there is a relatively low bioavailability which aids in
+the controlled delivery of the active medication to atopic
+dermatitis skin lesions. This also reduces the safety concerns
+related to the oral administration of Janus kinase inhibitors.
+The responses seen imply that ruxolitinib might be useful in
+different clinical scenarios. Not only is it beneficial in a broad
+atopic dermatitis patient population with different racial
+characteristics, regardless of their baseline disease condition
+and severity level, but also offers to be an additional treatment
+option before contemplation of systemic therapy. Because of
+its effectiveness and safety, RUX cream may replace other
+topical non-steroidal therapies as the industry standard.16
+Delgocitinib
+Delgocitinib, a pan-Janus kinase inhibitor, demonstrated
+promising results in non-clinical testing studies. The topical
+application of delgocitinib lessened inflammation and
+promoted the manufacture of terminal differentiation proteins,
+including filaggrin, to treat skin barrier abnormalities.
+In an animal model of dermatitis, it also decreased skin
+inflammation. Overall, atopic dermatitis symptom severity,
+as measured by the modified EASI (mEASI) and IGA scores,
+had improved dramatically by week 4 of a phase II study.
+It is hypothesised that the JAK-STAT pathway reduces
+IL-31 signalling. It can also be due to the inhibition of
+neural transmission of itch via JAK pathway suppression.
+These mechanisms are the most probable contributors to the
+in pruritus that was seen on day 1.17 Japanese
+patients with moderate-to-severe atopic dermatitis who were
+16 years of age or older participated in the phase II long-term
+study with an accompanying extension study.18 They received
+treatment for 4 weeks with either delgocitinib 0.5% ointment
+or vehicle ointment, according to a 2:1 randomisation. A
+24-week supply of the delgocitinib 0.5% ointment was
+provided to patients who fulfilled the criteria for Part 2.
+The main efficacy outcome was the per cent change in the
+modified EASI score from baseline. The key effectiveness
+goal for the delgocitinib group was considerably greater than
+the vehicle group’s in Part 1 and the improvement continued
+in Part 2.18
+Nakagawa et al.19 evaluated the efficacy and safety of
+delgocitinib ointment application in patients with moderateto-
+severe atopic dermatitis using a variety of scales including
+modified EASI, EASI, pruritus numerical rating scale (NRS),
+% BSA impacted by atopic dermatitis and Skindex-16,
+32, 33. There were only nine treatment-related adverse
+events, with one person discontinuing the therapy due to
+the side effects. Nasopharyngitis, acne, fever and Kaposi
+varicelliform eruptions were the ones most reported. At the
+end of the part 1 of the study (a 4-week double-blind period)
+the least-squares mean percent changes from baseline in the
+modified EASI were significantly greater in the delgocitinib
+group than in the vehicle group (-44.3% vs 1.7%, P < .001).
+The improvement was maintained in part 2 of he study (a
+24-week extension period).
+These results clearly outline the high safety ceiling for
+delgocitinib.
+Oral JAK Inhibitors
+Abrocitinib
+Patients with atopic dermatitis are now being tested in
+clinical studies with this oral JAK1 inhibitor. In one study20
+with 267 patients, those consuming 100 or 200 mg of
+abrocitinib fared better in terms of the fraction of the total
+number of patients who saw a significant improvement from
+the initial baseline values. There were no unanticipated
+safety problems; the action started immediately and it was
+well tolerated. Nonetheless, at dosages greater than 10 mg,
+there was a dose-related platelet drop. Even though the
+abrocitinib regimen was continued, platelet counts gradually
+returned to baseline after reaching their lowest point at week
+4. Most side effects were mild and they are believed to have
+minimal impact on the compliance given the considerably
+superior results.21 This research demonstrates that consistent
+abrocitinib therapy is the preferred therapeutic option for
+preventing flares in atopic dermatitis cases.22 The phase III
+JADE MONO-1 investigation, which involved adults and
+children with atopic dermatitis, and the JADE MONO-2
+study detailed the side effects of using the drug abrocitinib.
+The most viusalised negative consequences were nausea,
+nasopharyngitis, headache and related upper respiratory tract
+infections.
+One unexpected cardiac death was noted in the 100 mg
+abrocitinib group; however, it was subsequently determined
+that this death was unrelated to the treatment regimen.
+The lipid levels were higher and the platelet counts were
+lower in JADE MONO-1 and JADE MONO-2, respectively.
+Unknown mechanisms underlie how abrocitinib therapy
+alters the platelet count. By week 4, platelet counts decreased
+after which they became normal. It could be a therapeutic
+impact of abrocitinib, perhaps exerted via blocking Ashwell-
+Morrell receptors. It could also be due to the suppression
+of JAK1 and subsequent downstream effects on platelet or
+thrombopoietin formation.23 JADE MONO-2 trial had more
+Asian than European patients. The latter had diverse subsets
+of helper T cell-fuelled inflammatory activity,24 which could
+potentially avoid the adverse effects experienced by the
+patients. The combined findings from the two studies confirm
+the effectiveness of abrocitinib in a variety of patients,
+probably because of the suppression of several cytokines
+connected to atopic dermatitis.
+Upadacitinib
+Originally envisioned for oral use, this second-generation
+JAK1 inhibitor was developed to treat rheumatoid arthritis.
+It selectively suppresses JAK1 by a factor of 74 over JAK3,
+JAK2 and tyrosine kinase 2 [Figure 4].25 At a dose of 30 mg
+QD, upadacitinib showed the greatest EASI decrease and
+seemed to have the optimal benefit–risk ratio. At week 16,
+all upadacitinib dosages produced statistically significant
+responses with EASI improvement of 50% or more (EASI50),
+75% or more (EASI75) or 90% or more (EASI90) with 50%
+of persons in the 30-mg group achieving EASI90 in one
+trial.25 The greatest efficacies for achievement of EASI50 and
+EASI75 were noticed at week 4 and remained constant until
+week 16.26 which all dosage? substantially outperformed the
+placebo in terms of the IGA response and patient assessments
+of pruritus (improvement in the numerical rating scale).
+Upadacitinib reduced SCORAD scores when compared to
+placebo at weeks 8 and 16 with most comparisons showing
+statistically significant results. The most often reported
+adverse events were acne, worsening of atopic dermatitis
+and upper respiratory tract infection; there was no correlation
+between the dosage and the frequency of any adverse effect.
+The FDA has designated upadacitinib as a promising systemic
+therapy for the treatment of patients with moderate-to-severe
+atopic dermatitis. Another investigation in the phase III stage
+is currently underway.27
+Baricitinib
+A JAK1/2 inhibitor used to treat rheumatoid arthritis,
+baricitinib was recently approved for adults suffering from
+moderate to severe atopic dermatitis at 4 and 2 mg QID in
+Europe and Japan.
+In early 2019, Guttman-Yassky et al. conducted a promising
+atopic dermatitis therapy trial using this drug. In phase II
+randomized, placebo-controlled, 16-week study, baricitinib
+plus topical corticosteroids were extremely efficacious
+and safe for adult patients. In this study, 124 patients with
+moderate-to-severe AD applied topical corticosteroids for
+4 weeks before randomization to once-daily placebo QD or
+2 mg or 4 mg of baricitinib (BARI). Sixty-one per cent of
+patients on the 4 mg regimen met the main goal of at least
+EASI improvement of 50% as opposed to only 37% in the
+placebo group. Baricitinib significantly improved secondary
+outcomes, including itch, sleep and quality of life. Mild
+treatment emergent adverse events were nasopharyngitis and
+elevated blood creatinine phosphokinase.28
+Both the dosage strengths of baricitinib fulfilled the primary
+outcome of improvement in vIGA (validated IGA) in
+BREEZE-AD1 and AD2, two parallel, 16-week, phase
+III, non-U.S. studies. BARI 4 mg met major secondary
+goals in both experiments. Treatment emergent adverse
+events frequencies were equivalent and dose independent.
+BARI caused raised creatine phosphokinase levels in the
+blood and mild headaches lasting for around 1 day, but not
+nasopharyngitis or URTI.28
+BREEZE-AD5 was a North American–based, 16-week,
+phase III, randomised double blind placebo controlled
+trial that pitted BARI monotherapy at 1 mg or 2 mg doses
+against a placebo in 440 18-year-olds with moderate-tosevere
+atopic dermatitis. It was found that only BARI 2 mg
+achieved the primary endpoint (EASI improvement of 75%
+or more at week 16). The 2 mg baricitinib dose fulfilled
+practically all secondary objectives of week 16 including
+vIGA-AD (Validated IGA of atopic dermatitis) of 0 or 1 and
+itch NRS (Numeric Rating Scale) improvement of 4 or more.
+Nasopharyngitis, diarrhoea, nausea and URTI were the most
+common treatment emergent adverse events. Herpes simplex
+was more frequent with the baricitinib doses (1.4% vs. 2.0%
+vs. only 0.7% in the placebo group).29
+Gusacitinib
+Evidence suggests that gusacitinib inhibits the activity of both
+Janus kinase and sonic hedgehog kinases. Thirty-six patients
+suffering from moderate to severe atopic dermatitis participated
+in a phase Ib study. These participants were randomized to
+either consume gusacitinib or a placebo in a ratio of 3:1. Three
+dosage groups – 20 mg, 40 mg and 80 mg – were evaluated
+for over 28 days.30 The fraction of patients who achieved
+EASI improvement of 50% or more (20 mg group 20%, 40
+mg group 100%, 80 mg group 83%, and placebo group 22%)
+and EASI improvement of 75% or more (20 mg group 0%, 40
+mg group 71%, 80 mg group 33%, and placebo group 22%)
+was greater for gusacitinib versus placebo. The mild negative
+side effects that affected patients among different groups were
+comparable. The study also demonstrated that many blood
+biomarkers related to Th17, Th22 and Th1 immunity, as well
+as SELE (the biomarker E selectin) which is associated with
+atherosclerosis were successfully and significantly attenuated
+by gusacitinib. In addition, the research demonstrated limited
+inter-patient variability.
+Conclusion
+Various studies point to the fact that JAK inhibitors have
+progressed by leaps and bounds in not only creating and
+maintaining a disease-free state for atopic dermatitis patients
+but also in becoming an effective alternative to biologics.
+There are many advantages of using JAK inhibitors over
+conventional immunomodulators like precise targeting, longterm
+safety data, regulation of inflammatory cascade specific
+for atopic dermatitis, steroid-sparing potential, personalised
+treatment plans, and potential for combination therapy.
+JAK inhibitors also have certain advantages over biologics,
+including, availability in oral formulations, the ability
+to target multiple cytokine signaling pathways, a lower
+cost of therapy, the potential for topical application, fewer
+immunogenicity concerns, efficacy and safety in pediatric
+populations, and greater availability.
+However, it’s important to acknowledge that, like any
+treatment, JAK inhibitors do carry potential side effects that
+require careful consideration. Available evidence suggests
+they may be useful in AD care, giving patients hope for
+effective and accessible medication.
